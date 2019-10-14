@@ -1,0 +1,5 @@
+﻿  AdjacentEdgesOfTriangles.cpp
+c:\users\mumzik\source\repos\adjacentedgesoftriangles\adjacentedgesoftriangles\adjacentedgesoftriangles.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\adjacentedgesoftriangles\adjacentedgesoftriangles\adjacentedgesoftriangles.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\mumzik\source\repos\adjacentedgesoftriangles\adjacentedgesoftriangles\adjacentedgesoftriangles.cpp(8): warning C4101: p: неиспользованная локальная переменная
+  AdjacentEdgesOfTriangles.vcxproj -> C:\Users\mumzik\source\repos\AdjacentEdgesOfTriangles\Debug\AdjacentEdgesOfTriangles.exe
